@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jnh0465.github.io/sitemap.xml
